@@ -18,5 +18,10 @@ namespace MoneyTransfter
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Main());
         }
+
+        public static void Test()
+        {
+
+        }
     }
 }
