@@ -23,5 +23,10 @@ namespace MoneyTransfter
         {
 
         }
+
+        public static void test2()
+        {
+
+        }
     }
 }
