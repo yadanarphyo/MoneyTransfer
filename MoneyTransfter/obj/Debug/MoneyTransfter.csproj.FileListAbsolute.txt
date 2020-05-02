@@ -1,0 +1,60 @@
+c:\users\hp\documents\visual studio 2015\Projects\MoneyTransfter\MoneyTransfter\bin\Debug\MoneyTransfter.exe.config
+C:\Users\hp\documents\visual studio 2015\Projects\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.csprojResolveAssemblyReference.cache
+C:\Users\hp\documents\visual studio 2015\Projects\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.CashbookRegistration.resources
+C:\Users\hp\documents\visual studio 2015\Projects\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.Properties.Resources.resources
+C:\Users\hp\documents\visual studio 2015\Projects\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.csproj.GenerateResource.Cache
+C:\Users\hp\documents\visual studio 2015\Projects\MoneyTransfter\MoneyTransfter\bin\Debug\MoneyTransfter.exe
+C:\Users\hp\documents\visual studio 2015\Projects\MoneyTransfter\MoneyTransfter\bin\Debug\MoneyTransfter.pdb
+C:\Users\hp\documents\visual studio 2015\Projects\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.exe
+C:\Users\hp\documents\visual studio 2015\Projects\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.pdb
+C:\Users\hp\documents\visual studio 2015\Projects\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.Transfer.resources
+C:\Users\hp\documents\visual studio 2015\Projects\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.GeneralLedger.resources
+C:\Users\hp\documents\visual studio 2015\Projects\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.AccountRegistration.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.Main.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.ReportCashTransfer.resources
+C:\Users\hp\documents\visual studio 2015\Projects\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.ReportGeneralLedger.resources
+C:\Users\hp\documents\visual studio 2015\Projects\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.ReportCashbookList.resources
+C:\Users\hp\documents\visual studio 2015\Projects\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.ReportDetailCashbook.resources
+C:\Users\hp\documents\visual studio 2015\Projects\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.ReportDetailGL.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.EditTransfer.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.editGL.resources
+E:\MoneyTransfter\MoneyTransfter\bin\Debug\MoneyTransfter.exe.config
+E:\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.exe
+E:\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.pdb
+E:\MoneyTransfter\MoneyTransfter\bin\Debug\MoneyTransfter.exe
+E:\MoneyTransfter\MoneyTransfter\bin\Debug\MoneyTransfter.pdb
+E:\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.csprojResolveAssemblyReference.cache
+E:\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.editGL.resources
+E:\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.EditTransfer.resources
+E:\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.ReportCashbookList.resources
+E:\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.ReportCashTransfer.resources
+E:\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.CashbookRegistration.resources
+E:\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.AccountRegistration.resources
+E:\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.GeneralLedger.resources
+E:\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.Main.resources
+E:\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.ReportDetailCashbook.resources
+E:\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.ReportDetailGL.resources
+E:\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.ReportGeneralLedger.resources
+E:\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.Transfer.resources
+E:\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.Properties.Resources.resources
+E:\MoneyTransfter\MoneyTransfter\obj\Debug\MoneyTransfter.csproj.GenerateResource.Cache
+E:\MoneyTransfer\MoneyTransfter\bin\Debug\MoneyTransfter.exe.config
+E:\MoneyTransfer\MoneyTransfter\obj\Debug\MoneyTransfter.exe
+E:\MoneyTransfer\MoneyTransfter\obj\Debug\MoneyTransfter.pdb
+E:\MoneyTransfer\MoneyTransfter\bin\Debug\MoneyTransfter.exe
+E:\MoneyTransfer\MoneyTransfter\bin\Debug\MoneyTransfter.pdb
+E:\MoneyTransfer\MoneyTransfter\obj\Debug\MoneyTransfter.csprojResolveAssemblyReference.cache
+E:\MoneyTransfer\MoneyTransfter\obj\Debug\MoneyTransfter.editGL.resources
+E:\MoneyTransfer\MoneyTransfter\obj\Debug\MoneyTransfter.EditTransfer.resources
+E:\MoneyTransfer\MoneyTransfter\obj\Debug\MoneyTransfter.ReportCashbookList.resources
+E:\MoneyTransfer\MoneyTransfter\obj\Debug\MoneyTransfter.ReportCashTransfer.resources
+E:\MoneyTransfer\MoneyTransfter\obj\Debug\MoneyTransfter.CashbookRegistration.resources
+E:\MoneyTransfer\MoneyTransfter\obj\Debug\MoneyTransfter.AccountRegistration.resources
+E:\MoneyTransfer\MoneyTransfter\obj\Debug\MoneyTransfter.GeneralLedger.resources
+E:\MoneyTransfer\MoneyTransfter\obj\Debug\MoneyTransfter.Main.resources
+E:\MoneyTransfer\MoneyTransfter\obj\Debug\MoneyTransfter.ReportDetailCashbook.resources
+E:\MoneyTransfer\MoneyTransfter\obj\Debug\MoneyTransfter.ReportDetailGL.resources
+E:\MoneyTransfer\MoneyTransfter\obj\Debug\MoneyTransfter.ReportGeneralLedger.resources
+E:\MoneyTransfer\MoneyTransfter\obj\Debug\MoneyTransfter.Transfer.resources
+E:\MoneyTransfer\MoneyTransfter\obj\Debug\MoneyTransfter.Properties.Resources.resources
+E:\MoneyTransfer\MoneyTransfter\obj\Debug\MoneyTransfter.csproj.GenerateResource.Cache
